@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_index">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>NRS</item>
+    </string-array>
+</resources>
